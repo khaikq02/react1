@@ -1,9 +1,10 @@
 import "./App.css";
-import Home from "./components/BaiTapChiaLayout/Bai2/Home";
+import State from "./components/State/State";
+
 function App() {
   return (
     <div>
-      <Home />
+      <State />
     </div>
   );
 }
