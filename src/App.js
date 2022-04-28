@@ -1,10 +1,10 @@
 import "./App.css";
-import State from "./components/State/State";
+import BaiTap from "./components/BaiTapChonXe/BaiTap";
 
 function App() {
   return (
     <div>
-      <State />
+      <BaiTap />
     </div>
   );
 }
